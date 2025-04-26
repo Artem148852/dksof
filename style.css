@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: mediumaquamarine;
+    color: mediumblue;
+}
+.gallery{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+header{
+    background-color: mediumblue;
+    padding:30px;
+    border-radius: 50px;
+}
+header a{
+    color: mediumspringgreen;
+    border-radius: 2px solid mediumaquamarine;
+    padding: 10px;
+    border: 10px;
+}
+
+li:hover{
+   color:font: bold 4 Arial, sans-serif; 
+    color: #b300ff(189, 189, 249); 
+    -webkit-text-stroke-width: 1px;
+     -webkit-text-stroke-color: #b300ff ; 
+}
